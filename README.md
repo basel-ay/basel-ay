@@ -7,9 +7,9 @@
  
 [![Linkedin Badge](https://img.shields.io/badge/-basel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/basel-ayman-464b271a2/)](https://www.linkedin.com/in/basel-ayman-464b271a2/) [![basel99](https://road-to-kaggle-grandmaster.vercel.app/api/simple/basel99)](https://www.kaggle.com/basel99) 
  
-<img width="47%" src="https://github-readme-stats.vercel.app/api?username=basel-ay&show_icons=true&locale=en" alt="basel-ay" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=basel-ay&show_icons=true&locale=en" alt="basel-ay" />
 
-<img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basel-ay&layout=compact" alt="basel-ay" />
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basel-ay&layout=compact" alt="basel-ay" />
  
  
 
