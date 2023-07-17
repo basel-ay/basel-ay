@@ -9,6 +9,6 @@ Dedicated, passionate, and solution-oriented Data Scientist with experience in d
  
 <img width="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=basel-ay&show_icons=true&locale=en" alt="basel-ay" />
 
-<img width="42%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=basel-ay&layout=compact" alt="basel-ay" />
+<img width="38%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=basel-ay&layout=compact" alt="basel-ay" />
 
 </div>
